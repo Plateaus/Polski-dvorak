@@ -1,5 +1,5 @@
 # Polski-dvorak
- Polski układ klawiatury Dvorak dla Windows
+ Polski układ klawiatury Dvorak dla Microsoft Windows
  
  Widnows nie uwzględnia układu klawiatury Dvorak z Polskimi znakami. 
 
