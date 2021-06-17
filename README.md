@@ -1,7 +1,7 @@
 # Polski-dvorak
  Polski układ klawiatury Dvorak dla Windows
  
- Widnows nie uwzględnia układu klawiatury Dvorak z polskimi znakami. 
+ Widnows nie uwzględnia układu klawiatury Dvorak z Polskimi znakami. 
 
  Aby zainstalować:
  1. Pobierz program Microsoft Keyboard Layout Creator
