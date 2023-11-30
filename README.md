@@ -8,3 +8,5 @@
  2. Pobierz plik .klc i otwórz go w.w. programie
  3. Użyj funkcji Project > Validate, Test i Build
  4. Zainstaluj za pomocą wygenerowanego instalatora
+
+@update 2024 dalej działa
